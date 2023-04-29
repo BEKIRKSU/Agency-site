@@ -126,6 +126,26 @@ height: 120px;
     opacity: .5;
   }
   
+  .myprofile-btn {
+    background-color: #0095f6;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 16px;
+  }
+  
+  .myprofile-btn i {
+    font-size: 18px;
+    margin-right: 8px;
+  }
+  
+  .myprofile-btn:hover {
+    background-color: #0080f9;
+  }
+  
 /* Style the header element */
 head {
     background-color: #333;
