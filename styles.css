@@ -45,6 +45,12 @@ body {
   .dropdown:hover .dropdown-content {
     display: block;
   }
+
+  .normal-buttons {
+    text-align: right;
+    margin-right: 25px;
+
+  }
 /* Style the header element */
 head {
     background-color: #333;
